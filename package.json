@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/praburocking/heroclientbuild/issues"
   },
-  "homepage": "https://github.com/praburocking/heroclientbuild#readme",
+ 
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
